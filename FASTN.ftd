@@ -1,0 +1,19 @@
+-- import: fastn
+
+-- fastn.package: piyushsonta.github.io/new-file
+favicon: /-/piyushsonta.github.io/new-file/favicon.ico
+
+-- fastn.dependency: fastn-community.github.io/doc-site as doc-site
+-- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: fastn-community.github.io/dark-flame-cs
+
+-- fastn.auto-import: piyushsonta.github.io/new-file/FASTN/ds
+-- fastn.auto-import: piyushsonta.github.io/new-file/assets
+-- fastn.auto-import: doc-site
+
+-- fastn.sitemap:
+
+# Home: index.html
+
+- Right Sidebar Sample: /sidebar/
